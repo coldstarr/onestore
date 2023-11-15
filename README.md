@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PropShop Ecommerce Website With Django + React
 
 Live Demo can be viewed at https://www.buildproshop.com/
@@ -35,3 +36,6 @@ This project is from my Django + React collaboration wih Brad Traversy. Full Cou
 # Install react modules
 * 1 - cd frontend
 * 2 - npm install
+=======
+# onestore
+>>>>>>> 53b63a978e35f7c35a5f54b0002cf6c65e36e18a
