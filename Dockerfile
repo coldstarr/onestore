@@ -13,4 +13,4 @@ RUN pip install -r requirements.txt
 
 COPY . /app/
 
-ENTRYPOINT [ "gunicorn", "backend.wsgi"]
+ENTRYPOINT ["gunicorn", "backend.wsgi"]
