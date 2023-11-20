@@ -2,7 +2,8 @@
 
 Live Demo can be viewed at https://onestore-s62f.onrender.com
 
-<img src="https://github.com/coldstarr/onestore/blob/main/static/images/onestore.gif" width="450" height="250" />
+![onestore!](https://drive.google.com/uc?export=download&id=10TBzWOuJL3qrG3HndZQPgMrk2KDVOtQV)
+
 
 
 # Features
