@@ -4,8 +4,6 @@ Live Demo can be viewed at https://onestore-s62f.onrender.com
 
 ![onestore!](https://drive.google.com/uc?export=download&id=10TBzWOuJL3qrG3HndZQPgMrk2KDVOtQV)
 
-
-
 # Features
 * Full featured shopping cart
 * Product reviews and ratings
